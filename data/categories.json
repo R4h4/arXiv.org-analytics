@@ -1,0 +1,597 @@
+{
+    "categories": {
+        "astro-ph.GA": {
+          "fullname": "Astrophysics of Galaxies",
+          "parent": "Physics"
+        },
+        "astro-ph.CO": {
+          "fullname": "Cosmology and Nongalactic Astrophysics",
+          "parent": "Physics"
+        },
+        "astro-ph.EP": {
+          "fullname": "Earth and Planetary Astrophysics",
+          "parent": "Physics"
+        },
+        "astro-ph.HE": {
+          "fullname": "High Energy Astrophysical Phenomena",
+          "parent": "Physics"
+        },
+        "astro-ph.IM": {
+          "fullname": "Instrumentation and Methods for Astrophysics",
+          "parent": "Physics"
+        },
+        "astro-ph.SR": {
+          "fullname": "Solar and Stellar Astrophysics",
+          "parent": "Physics"
+        },
+        "cond-mat.dis-nn": {
+          "fullname": "Disordered Systems and Neural Networks",
+          "parent": "Physics"
+        },
+        "cond-mat.mtrl-sci": {
+          "fullname": "Materials Science",
+          "parent": "Physics"
+        },
+        "cond-mat.mes-hall": {
+          "fullname": "Mesoscale and Nanoscale Physics",
+          "parent": "Physics"
+        },
+        "cond-mat.other": {
+          "fullname": "Other Condensed Matter",
+          "parent": "Physics"
+        },
+        "cond-mat.quant-gas": {
+          "fullname": "Quantum Gases",
+          "parent": "Physics"
+        },
+        "cond-mat.soft": {
+          "fullname": "Soft Condensed Matter",
+          "parent": "Physics"
+        },
+        "cond-mat.stat-mech": {
+          "fullname": "Statistical Mechanics",
+          "parent": "Physics"
+        },
+        "cond-mat.str-el": {
+          "fullname": "Strongly Correlated Electrons",
+          "parent": "Physics"
+        },
+        "cond-mat.supr-con": {
+          "fullname": "Superconductivity",
+          "parent": "Physics"
+        },
+        "gr-qc": {
+          "fullname": "General Relativity and Quantum Cosmology",
+          "parent": "Physics"
+        },
+        "hep-ex": {
+          "fullname": "High Energy Physics - Experiment",
+          "parent": "Physics"
+        },
+        "hep-lat": {
+          "fullname": "High Energy Physics - Lattice",
+          "parent": "Physics"
+        },
+        "hep-ph": {
+          "fullname": "High Energy Physics - Phenomenology",
+          "parent": "Physics"
+        },
+        "hep-th": {
+          "fullname": "High Energy Physics - Theory",
+          "parent": "Physics"
+        },
+        "math-ph": {
+          "fullname": "Mathematical Physics",
+          "parent": "Physics"
+        },
+        "nlin.AO": {
+          "fullname": "Adaptation and Self-Organizing Systems",
+          "parent": "Physics"
+        },
+        "nlin.CG": {
+          "fullname": "Cellular Automata and Lattice Gases",
+          "parent": "Physics"
+        },
+        "nlin.CD": {
+          "fullname": "Chaotic Dynamics",
+          "parent": "Physics"
+        },
+        "nlin.SI": {
+          "fullname": "Exactly Solvable and Integrable Systems",
+          "parent": "Physics"
+        },
+        "nlin.PS": {
+          "fullname": "Pattern Formation and Solitons",
+          "parent": "Physics"
+        },
+        "nucl-ex": {
+          "fullname": "Nuclear Experiment",
+          "parent": "Physics"
+        },
+        "nucl-th": {
+          "fullname": "Nuclear Theory",
+          "parent": "Physics"
+        },
+        "physics.acc-ph": {
+          "fullname": "Accelerator Physics",
+          "parent": "Physics"
+        },
+        "physics.app-ph": {
+          "fullname": "Applied Physics",
+          "parent": "Physics"
+        },
+        "physics.ao-ph": {
+          "fullname": "Atmospheric and Oceanic Physics",
+          "parent": "Physics"
+        },
+        "physics.atom-ph": {
+          "fullname": "Atomic Physics",
+          "parent": "Physics"
+        },
+        "physics.atm-clus": {
+          "fullname": "Atomic and Molecular Clusters",
+          "parent": "Physics"
+        },
+        "physics.bio-ph": {
+          "fullname": "Biological Physics",
+          "parent": "Physics"
+        },
+        "physics.chem-ph": {
+          "fullname": "Chemical Physics",
+          "parent": "Physics"
+        },
+        "physics.class-ph": {
+          "fullname": "Classical Physics",
+          "parent": "Physics"
+        },
+        "physics.comp-ph": {
+          "fullname": "Computational Physics",
+          "parent": "Physics"
+        },
+        "physics.data-an": {
+          "fullname": "Data Analysis, Statistics and Probability",
+          "parent": "Physics"
+        },
+        "physics.flu-dyn": {
+          "fullname": "Fluid Dynamics",
+          "parent": "Physics"
+        },
+        "physics.gen-ph": {
+          "fullname": "General Physics",
+          "parent": "Physics"
+        },
+        "physics.geo-ph": {
+          "fullname": "Geophysics",
+          "parent": "Physics"
+        },
+        "physics.hist-ph": {
+          "fullname": "History and Philosophy of Physics",
+          "parent": "Physics"
+        },
+        "physics.ins-det": {
+          "fullname": "Instrumentation and Detectors",
+          "parent": "Physics"
+        },
+        "physics.med-ph": {
+          "fullname": "Medical Physics",
+          "parent": "Physics"
+        },
+        "physics.optics": {
+          "fullname": "Optics",
+          "parent": "Physics"
+        },
+        "physics.ed-ph": {
+          "fullname": "Physics Education",
+          "parent": "Physics"
+        },
+        "physics.soc-ph": {
+          "fullname": "Physics and Society",
+          "parent": "Physics"
+        },
+        "physics.plasm-ph": {
+          "fullname": "Plasma Physics",
+          "parent": "Physics"
+        },
+        "physics.pop-ph": {
+          "fullname": "Popular Physics",
+          "parent": "Physics"
+        },
+        "physics.space-ph": {
+          "fullname": "Space Physics",
+          "parent": "Physics"
+        },
+        "quant-ph": {
+          "fullname": "Quantum Physics",
+          "parent": "Physics"
+        },
+
+        "math.AG": {
+          "fullname": "Algebraic Geometry",
+          "parent": "Mathematics"
+        },
+        "math.AT": {
+          "fullname": "Algebraic Topology",
+          "parent": "Mathematics"
+        },
+        "math.AP": {
+          "fullname": "Analysis of PDEs",
+          "parent": "Mathematics"
+        },
+        "math.CT": {
+          "fullname": "Category Theory",
+          "parent": "Mathematics"
+        },
+        "math.CA": {
+          "fullname": "Classical Analysis and ODEs",
+          "parent": "Mathematics"
+        },
+        "math.CO": {
+          "fullname": "Combinatorics",
+          "parent": "Mathematics"
+        },
+        "math.AC": {
+          "fullname": "Commutative Algebra",
+          "parent": "Mathematics"
+        },
+        "math.CV": {
+          "fullname": "Complex Variables",
+          "parent": "Mathematics"
+        },
+        "math.DG": {
+          "fullname": "Differential Geometry",
+          "parent": "Mathematics"
+        },
+        "math.DS": {
+          "fullname": "Dynamical Systems",
+          "parent": "Mathematics"
+        },
+        "math.FA": {
+          "fullname": "Functional Analysis",
+          "parent": "Mathematics"
+        },
+        "math.GM": {
+          "fullname": "General Mathematics",
+          "parent": "Mathematics"
+        },
+        "math.GN": {
+          "fullname": "General Topology",
+          "parent": "Mathematics"
+        },
+        "math.GT": {
+          "fullname": "Geometric Topology",
+          "parent": "Mathematics"
+        },
+        "math.GR": {
+          "fullname": "Group Theory",
+          "parent": "Mathematics"
+        },
+        "math.HO": {
+          "fullname": "History and Overview",
+          "parent": "Mathematics"
+        },
+        "math.IT": {
+          "fullname": "Information Theory",
+          "parent": "Mathematics"
+        },
+        "math.KT": {
+          "fullname": "K-Theory and Homology",
+          "parent": "Mathematics"
+        },
+        "math.LO": {
+          "fullname": "Logic",
+          "parent": "Mathematics"
+        },
+        "math.MP": {
+          "fullname": "Mathematical Physics",
+          "parent": "Mathematics"
+        },
+        "math.MG": {
+          "fullname": "Metric Geometry",
+          "parent": "Mathematics"
+        },
+        "math.NT": {
+          "fullname": "Number Theory",
+          "parent": "Mathematics"
+        },
+        "math.NA": {
+          "fullname": "Numerical Analysis",
+          "parent": "Mathematics"
+        },
+        "math.OA": {
+          "fullname": "Operator Algebras",
+          "parent": "Mathematics"
+        },
+        "math.OC": {
+          "fullname": "Optimization and Control",
+          "parent": "Mathematics"
+        },
+        "math.PR": {
+          "fullname": "Probability",
+          "parent": "Mathematics"
+        },
+        "math.QA": {
+          "fullname": "Quantum Algebra",
+          "parent": "Mathematics"
+        },
+        "math.RT": {
+          "fullname": "Representation Theory",
+          "parent": "Mathematics"
+        },
+        "math.RA": {
+          "fullname": "Rings and Algebras",
+          "parent": "Mathematics"
+        },
+        "math.SP": {
+          "fullname": "Spectral Theory",
+          "parent": "Mathematics"
+        },
+        "math.ST": {
+          "fullname": "Statistics Theory",
+          "parent": "Mathematics"
+        },
+        "math.SG": {
+          "fullname": "Symplectic Geometry",
+          "parent": "Mathematics"
+        },
+        "cs.AI": {
+          "fullname": "Artificial Intelligence",
+          "parent": "Computer Science"
+        },
+        "cs.CL": {
+          "fullname": "Computation and Language",
+          "parent": "Computer Science"
+        },
+        "cs.CC": {
+          "fullname": "Computational Complexity",
+          "parent": "Computer Science"
+        },
+        "cs.CE": {
+          "fullname": "Computational Engineering, Finance, and Science",
+          "parent": "Computer Science"
+        },
+        "cs.CG": {
+          "fullname": "Computational Geometry",
+          "parent": "Computer Science"
+        },
+        "cs.GT": {
+          "fullname": "Computer Science and Game Theory",
+          "parent": "Computer Science"
+        },
+        "cs.CV": {
+          "fullname": "Computer Vision and Pattern Recognition",
+          "parent": "Computer Science"
+        },
+        "cs.CY": {
+          "fullname": "Computers and Society",
+          "parent": "Computer Science"
+        },
+        "cs.CR": {
+          "fullname": "Cryptography and Security",
+          "parent": "Computer Science"
+        },
+        "cs.DS": {
+          "fullname": "Data Structures and Algorithms",
+          "parent": "Computer Science"
+        },
+        "cs.DB": {
+          "fullname": "Databases",
+          "parent": "Computer Science"
+        },
+        "cs.DL": {
+          "fullname": "Digital Libraries",
+          "parent": "Computer Science"
+        },
+        "cs.DM": {
+          "fullname": "Discrete Mathematics",
+          "parent": "Computer Science"
+        },
+        "cs.DC": {
+          "fullname": "Distributed, Parallel, and Cluster Computing",
+          "parent": "Computer Science"
+        },
+        "cs.ET": {
+          "fullname": "Emerging Technologies",
+          "parent": "Computer Science"
+        },
+        "cs.FL": {
+          "fullname": "Formal Languages and Automata Theory",
+          "parent": "Computer Science"
+        },
+        "cs.GL": {
+          "fullname": "General Literature",
+          "parent": "Computer Science"
+        },
+        "cs.GR": {
+          "fullname": "Graphics",
+          "parent": "Computer Science"
+        },
+        "cs.AR": {
+          "fullname": "Hardware Architecture",
+          "parent": "Computer Science"
+        },
+        "cs.HC": {
+          "fullname": "Human-Computer Interaction",
+          "parent": "Computer Science"
+        },
+        "cs.IR": {
+          "fullname": "Information Retrieval",
+          "parent": "Computer Science"
+        },
+        "cs.IT": {
+          "fullname": "Information Theory",
+          "parent": "Computer Science"
+        },
+        "cs.LG": {
+          "fullname": "Learning",
+          "parent": "Computer Science"
+        },
+        "cs.LO": {
+          "fullname": "Logic in Computer Science",
+          "parent": "Computer Science"
+        },
+        "cs.MS": {
+          "fullname": "Mathematical Software",
+          "parent": "Computer Science"
+        },
+        "cs.MA": {
+          "fullname": "Multiagent Systems",
+          "parent": "Computer Science"
+        },
+        "cs.MM": {
+          "fullname": "Multimedia",
+          "parent": "Computer Science"
+        },
+        "cs.NI": {
+          "fullname": "Networking and Internet Architecture",
+          "parent": "Computer Science"
+        },
+        "cs.NE": {
+          "fullname": "Neural and Evolutionary Computing",
+          "parent": "Computer Science"
+        },
+        "cs.NA": {
+          "fullname": "Numerical Analysis",
+          "parent": "Computer Science"
+        },
+        "cs.OS": {
+          "fullname": "Operating Systems",
+          "parent": "Computer Science"
+        },
+        "cs.OH": {
+          "fullname": "Other Computer Science",
+          "parent": "Computer Science"
+        },
+        "cs.PF": {
+          "fullname": "Performance",
+          "parent": "Computer Science"
+        },
+        "cs.PL": {
+          "fullname": "Programming Languages",
+          "parent": "Computer Science"
+        },
+        "cs.RO": {
+          "fullname": "Robotics",
+          "parent": "Computer Science"
+        },
+        "cs.SI": {
+          "fullname": "Social and Information Networks",
+          "parent": "Computer Science"
+        },
+        "cs.SE": {
+          "fullname": "Software Engineering",
+          "parent": "Computer Science"
+        },
+        "cs.SD": {
+          "fullname": "Sound",
+          "parent": "Computer Science"
+        },
+        "cs.SC": {
+          "fullname": "Symbolic Computation",
+          "parent": "Computer Science"
+        },
+        "cs.SY": {
+          "fullname": "Systems and Control",
+          "parent": "Computer Science"
+        },
+        "q-bio.BM": {
+          "fullname": "Biomolecules",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.GN": {
+          "fullname": "Genomics",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.MN": {
+          "fullname": "Molecular Networks",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.SC": {
+          "fullname": "Subcellular Processes",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.CB": {
+          "fullname": "Cell Behavior",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.NC": {
+          "fullname": "Neurons and Cognition",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.TO": {
+          "fullname": "Tissues and Organs",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.PE": {
+          "fullname": "Populations and Evolution",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.QM": {
+          "fullname": "Quantitative Methods",
+          "parent": "Quantitative Biology"
+        },
+        "q-bio.OT": {
+          "fullname": "Other",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.PR": {
+          "fullname": "Pricing of Securities",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.RM": {
+          "fullname": "Risk Management",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.PM": {
+          "fullname": "Portfolio Management",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.TR": {
+          "fullname": "Trading and Microstructure",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.MF": {
+          "fullname": "Mathematical Finance",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.CP": {
+          "fullname": "Computational Finance",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.ST": {
+          "fullname": "Statistical Finance",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.GN": {
+          "fullname": "General Finance",
+          "parent": "Quantitative Biology"
+        },
+        "q-fin.EC": {
+          "fullname": "Economics",
+          "parent": "Quantitative Biology"
+        },
+        "stat.AP": {
+          "fullname": "Applications",
+          "parent": "Statistic"
+        },
+        "stat.CO": {
+          "fullname": "Computation",
+          "parent": "Statistic"
+        },
+        "stat.ML": {
+          "fullname": "Machine Learning",
+          "parent": "Statistic"
+        },
+        "stat.ME": {
+          "fullname": "Methodology",
+          "parent": "Statistic"
+        },
+        "stat.OT": {
+          "fullname": "Other Statistics",
+          "parent": "Statistic"
+        },
+        "stat.TH": {
+          "fullname": "Theory",
+          "parent": "Statistic"
+        }
+    }
+}
